@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algoritmo de média/1.0.0": {
+        "runtime": {
+          "Algoritmo de média.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritmo de média/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
